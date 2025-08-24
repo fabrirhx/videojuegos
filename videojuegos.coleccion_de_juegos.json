@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "68ab59c9aeba83900d9ba73d"
+  },
+  "nombre": "counter_strike",
+  "categoria": "shooter",
+  "gb": 85,
+  "tipo": "online"
+},
+{
+  "_id": {
+    "$oid": "68ab5af2aeba83900d9ba73f"
+  },
+  "nombre": "resident_evil",
+  "categoria": "supervivencia",
+  "gb": 67,
+  "tipo": "offline"
+},
+{
+  "_id": {
+    "$oid": "68ab5bedaeba83900d9ba741"
+  },
+  "nombre": "the_last_of_us",
+  "categoria": "supervivencia",
+  "gb": 100,
+  "tipo": "offline"
+},
+{
+  "_id": {
+    "$oid": "68ab6a68f506ea564a376e74"
+  },
+  "nombre": "minecraft",
+  "categoria": "supervivencai",
+  "gb": 2,
+  "tipo": "online/offline"
+},
+{
+  "_id": {
+    "$oid": "68ab6accf506ea564a376e76"
+  },
+  "nombre": "fortnite",
+  "categoria": "shooter",
+  "gb": 54,
+  "tipo": "online"
+}]
